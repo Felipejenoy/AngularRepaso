@@ -36,4 +36,5 @@ const result = taxCalculation({
 
 console.log('total', result[0]);
 console.log('tax', result[1]);
-export{};
+console.log()
+export{};  
