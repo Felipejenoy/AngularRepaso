@@ -6,7 +6,8 @@ import './style.css';
 // import './topics/04-homeworks-types'
 // import './topics/06-function-destructuring'
 //  import './topics/07-import-export'
-import './topics/08-classes'
+// import './topics/08-classes'
+import './topics/09-generics'
 const app= document.querySelector<HTMLDivElement>('#app')!
 app.innerHTML = "Practicando mi ANGULAR";
 console.log("Hola mundo"); 
